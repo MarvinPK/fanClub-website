@@ -1,0 +1,137 @@
+{
+  "Header": {
+    "title": "PSG Fan Club Poitiers",
+    "paragraph": "\" Paris SG ! Tous ensemble on chantera, cet amour qu'on a pour toi, qui ne cessera jamais ! Après tant d'années, de galères et de combats ! Oh pour toi Paris SG, on va se casser la voix ! \""
+  },
+  "About": {
+    "paragraph": "Le \"PSG Fan Club Poitiers\" a été créé par notre président Antonin en 2020. Il a pour but de rassembler les amoureux du PSG autour de leur passion. Au cours des saisons, de nombreux déplacements, aussi bien au Parc des Princes qu'en parcage, ainsi que des rassemblements, sont organisés afin de donner de la voix pour notre équipe.   On vous demandera seulement 15€ pour adhérer à l'association.",
+    "Why": [
+      "Une passion commune",
+      "Une bonne ambiance",
+      "Soutenir le PSG",
+      "Faire des déplacements à plusieurs"
+    ],
+    "Why2": [
+      "Vibrer ensembe",
+      "Gagner ensemble",
+      "Perdre ensemble",
+      "Haïr l'OW ensemble"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "PSG - Bordeaux 19/09/2021",
+      "type":"img",
+      "largeImage": "img/portfolio/psg-bordeaux-2021.jpg",
+      "smallImage": "img/portfolio/psg-bordeaux-2021.jpg"
+    },
+    {
+      "title": "Parcage Bordeaux - PSG 06/11/2021",
+      "type":"img",
+      "largeImage": "img/portfolio/bordeaux-psg-2021.jpg",
+      "smallImage": "img/portfolio/bordeaux-psg-2021.jpg"
+    },
+    {
+      "title": "Parcage Bordeaux - PSG 06/11/2021",
+      "largeImage": "img/portfolio/bordeaux-psg-2021-2.jpg",
+      "smallImage": "img/portfolio/bordeaux-psg-2021-2.jpg"
+    }
+  ],
+  "News": [
+    {
+      "icon": "img/icons/icon-journal.svg",
+      "name": "Article le 7 info",
+      "text": "Article réalisé par Romain Mudrak sur l'un des déplacement au parc des princes de notre fan club.",
+      "link":"https://www.le7.info/article/17780-serie-supporters-ici-cest-aussi-le-psg"
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Features": [
+    {
+      "icon": "img/icons/icn-psg-logo.svg",
+      "title": "Site web du club",
+      "text": "Site officiel du club",
+      "url": "https://www.psg.fr"
+    },
+    {
+      "icon": "img/icons/icon-whatsapp.svg",
+      "title": "Notre Whats'App",
+      "text": "Groupe Whats'App du fan club. C'est ici qu'ont lieu les divers échanges entre les adhérents."
+    },
+    {
+      "icon": "img/icons/icon-facebook.svg",
+      "title": "Notre Facebook",
+      "text": "Page Facebook du fan club. Retrouvez y toutes les annonces relatives aux rasemblements, aux matchs, aux déplacemments ...",
+      "url": "https://www.facebook.com/Fan-Club-PSG-Poitiers-106681044231244"
+    },
+    {
+      "icon": "img/icons/icon-ligue-1.svg",
+      "title": "Calendrier & résultats",
+      "text": "Futurs rencontres et résultats passés de notre club.",
+      "url": "https://www.psg.fr/equipes/equipe-premiere/calendrier-et-resultats"
+    }
+  ]
+}
