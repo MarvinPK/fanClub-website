@@ -13,12 +13,19 @@ export const News = (props) => {
             ? props.data.map((d, i) => (
                 <div key={`${d.name}-${i}`} className='col-md-4'>
                   {' '}
-                  <i className={d.icon}></i>
-                  <div className='new-desc'>
-                    <h3>{d.name}</h3>
-                    <p>{d.text}</p>
-                    {d.link && <strong><a style={{"color":"white"}} href={d.link} target="_blank">Voir le lien</a></strong>}
-                  </div>
+                  {d.link ?<a href={d.link} target="_blank">
+                    {d.img && <img style={{"width":"100px"}} src={d.img}></img>}
+                    <i className={d.icon}></i>
+                    <div className='new-desc'>
+                      <h3>{d.name}</h3>
+                      <p>{d.text}</p>
+                    </div>
+                    </a> : <div>{d.img && <img style={{"width":"100px"}} src={d.img}></img>}
+                    <i className={d.icon}></i>
+                    <div className='new-desc'>
+                      <h3>{d.name}</h3>
+                      <p>{d.text}</p>
+                    </div></div>}
                 </div>
               ))
             : 'loading'}

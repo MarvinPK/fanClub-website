@@ -39,15 +39,15 @@
   ],
   "News": [
     {
-      "icon": "img/icons/icon-journal.svg",
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Assemblée générale",
+      "text": "Premiere assemblée générale du Fan club le 27 Mai 2022."
+    },
+    {
+      "img": "img/septPoitiers.jpg",
       "name": "Article le 7 info",
       "text": "Article réalisé par Romain Mudrak sur l'un des déplacement au parc des princes de notre fan club.",
       "link":"https://www.le7.info/article/17780-serie-supporters-ici-cest-aussi-le-psg"
-    },
-    {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
       "icon": "fa fa-cloud-download",
