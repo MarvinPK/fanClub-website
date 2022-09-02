@@ -7,6 +7,7 @@ import { News } from "./components/news";
 import { Gallery } from "./components/gallery";
 import { Testimonials } from "./components/testimonials";
 import { Team } from "./components/Team";
+import { Contact } from "./components/contact";
 import { Footer } from "./components/footer";
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
@@ -33,6 +34,7 @@ const App = () => {
       <Features data={landingPageData.Features} />
       <Team data={landingPageData.Team} />
       <Testimonials data={landingPageData.Testimonials} />
+      <Contact data={landingPageData.Contact} />
       <Footer/>
     </div>
   );

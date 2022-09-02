@@ -4,7 +4,7 @@
     "paragraph": "\" Paris SG ! Tous ensemble on chantera, cet amour qu'on a pour toi, qui ne cessera jamais ! Après tant d'années, de galères et de combats ! Oh pour toi Paris SG, on va se casser la voix ! \""
   },
   "About": {
-    "paragraph": "Le \"PSG Fan Club Poitiers\" a été créé par notre président Antonin en 2020. Il a pour but de rassembler les amoureux du PSG autour de leur passion. Au cours des saisons, de nombreux déplacements, aussi bien au Parc des Princes qu'en parcage, ainsi que des rassemblements, sont organisés afin de donner de la voix pour notre équipe.   On vous demandera seulement 15€ pour adhérer à l'association.",
+    "paragraph": "Le \"PSG Fan Club Poitiers\" a été créé par notre président Antonin en 2020. Il a pour but de rassembler les amoureux du PSG autour de leur passion. Au cours des saisons, de nombreux déplacements, aussi bien au Parc des Princes qu'en parcage, ainsi que des rassemblements, sont organisés afin de donner de la voix pour notre équipe.   On vous demandera seulement 20€ pour adhérer à l'association.",
     "Why": [
       "Une passion commune",
       "Une bonne ambiance",
@@ -35,7 +35,17 @@
       "title": "Parcage Bordeaux - PSG 06/11/2021",
       "largeImage": "img/portfolio/bordeaux-psg-2021-2.jpg",
       "smallImage": "img/portfolio/bordeaux-psg-2021-2.jpg"
-    }
+    },
+    {
+      "title": "PSG - Monaco 28/08/2022",
+      "largeImage": "img/portfolio/psg-monaco-2022.png",
+      "smallImage": "img/portfolio/psg-monaco-2022.png"
+    },
+    {
+      "title": "Rassemblement Club House Toulouse - PSG 31/08/2022",
+      "largeImage": "img/portfolio/rassemblement-toulouse-psg-2022.png",
+      "smallImage": "img/portfolio/rassemblement-toulouse-psg-2022.png"
+    }    
   ],
   "News": [
     {
@@ -109,6 +119,12 @@
       "job": "Project Manager"
     }
   ],
+  "Contact": {
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "https://www.facebook.com/Fan-Club-PSG-Poitiers-106681044231244",
+    "twitter": "https://twitter.com/FanClubPoitiers"
+  },
   "Features": [
     {
       "icon": "img/icons/icn-psg-logo.svg",
