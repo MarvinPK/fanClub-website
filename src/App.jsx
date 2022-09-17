@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { Menu } from "./components/menu";
 import { Header } from "./components/header";
-import { Features } from "./components/features";
+import { LiensUtiles } from "./components/liensUtiles";
 import { APropos } from "./components/aPropos";
 import { Actualites } from "./components/actualites";
 import { Gallery } from "./components/gallery";
@@ -31,7 +31,7 @@ const App = () => {
       <APropos data={landingPageData.APropos} />
       <Actualites data={landingPageData.actualites} />
       <Gallery data={landingPageData.Gallery}/>
-      <Features data={landingPageData.Features} />
+      <LiensUtiles data={landingPageData.LiensUtiles} />
       <Equipe data={landingPageData.Equipe} />
       <Avis data={landingPageData.Avis} />
       <Contact data={landingPageData.Contact} />

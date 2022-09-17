@@ -7,7 +7,7 @@ export const Gallery = (props) => {
         <div className='section-title'>
           <h2>Galerie Photos</h2>
           <p>
-            Différentes photos / vidéos prises lors des évennements passés.
+            Différentes photos prises lors des évennements passés.
           </p>
         </div>
         <div className='row'>

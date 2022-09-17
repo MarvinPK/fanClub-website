@@ -10,9 +10,8 @@ export const Avis = (props) => {
             ? props.data.map((d, i) => (
                 <div key={`${d.name}-${i}`} className='col-md-4'>
                   <div className='testimonial'>
-                    <div className='testimonial-image'>
-                      {' '}
-                      <img src={d.img} alt='' />{' '}
+                    <div className='testimonial-image' style={{backgroundImage: `url(${d.img})`}}>
+                      
                     </div>
                     <div className='testimonial-content'>
                       <p>"{d.text}"</p>

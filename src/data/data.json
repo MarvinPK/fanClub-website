@@ -45,7 +45,17 @@
       "title": "Rassemblement Club House Toulouse - PSG 31/08/2022",
       "largeImage": "img/portfolio/rassemblement-toulouse-psg-2022.png",
       "smallImage": "img/portfolio/rassemblement-toulouse-psg-2022.png"
-    }    
+    },
+    {
+      "title": "Parcage Nantes - PSG 2022",
+      "largeImage": "img/portfolio/nantes-psg-1-2022.jpg",
+      "smallImage": "img/portfolio/nantes-psg-1-2022.jpg"
+    } ,
+    {
+      "title": "Parcage Nantes - PSG 2022",
+      "largeImage": "img/portfolio/nantes-psg-2022.jpg",
+      "smallImage": "img/portfolio/nantes-psg-2022.jpg"
+    }       
   ],
   "Actualites": [
     {
@@ -67,9 +77,9 @@
   ],
   "Avis": [
     {
-      "img": "img/avis/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/avis/m.jpg",
+      "text": "Club de fan famillial, sans prise de tête et avec un président dévoué au projet. Très bonne ambiance entre les membres.",
+      "name": "Un adhérent"
     },
     {
       "img": "img/avis/02.jpg",
@@ -125,12 +135,12 @@
     "facebook": "https://www.facebook.com/Fan-Club-PSG-Poitiers-106681044231244",
     "twitter": "https://twitter.com/FanClubPoitiers"
   },
-  "Features": [
+  "LiensUtiles": [
     {
-      "icon": "img/icons/icn-psg-logo.svg",
-      "title": "Site web du club",
-      "text": "Site officiel du club",
-      "url": "https://www.psg.fr"
+      "icon": "img/icons/icon-twitter.svg",
+      "title": "Notre Twitter",
+      "text": "Page Twitter du fan club. Retrouvez y toutes les annonces relatives aux rasemblements, aux matchs, aux déplacemments ...",
+      "url": "https://twitter.com/FanClubPoitiers"
     },
     {
       "icon": "img/icons/icon-whatsapp.svg",

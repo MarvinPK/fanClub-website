@@ -203,12 +203,16 @@ a:focus,
   outline-offset: none;
 }
 /* Header Section */
+#header{
+  height: 800px;
+  margin-top: 2%;
+}
 .intro {
   display: table;
   width: 100%;
   padding: 0;
   background: url(../img/ultra.jpg) center center no-repeat;
-  
+  height: 100%;
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -217,6 +221,7 @@ a:focus,
 }
 .intro .overlay {
   background: rgba(0, 0, 0, 0.2);
+  height: 100%; 
 }
 .intro h1 {
   font-family: "Raleway", sans-serif;
@@ -248,12 +253,12 @@ header .intro-text {
   width: 70px;
   float: left;
 }
-/* Features Section */
-#features {
+/* LiensUtiles Section */
+#liensUtiles {
   background: #f6f6f6;
   padding: 100px 0px;
 }
-#features i.fa {
+#liensUtiles i.fa {
   font-size: 38px;
   margin-bottom: 20px;
   transition: all 0.5s;
@@ -265,7 +270,7 @@ header .intro-text {
   background: linear-gradient(to right, #747171 0%, #ffffff 100%);
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
 }
-#features .utilLink{
+#liensUtiles .utilLink{
   transition: all 0.3s linear;
 } 
 
@@ -433,14 +438,14 @@ header .intro-text {
 .testimonial-image {
   float: left;
   margin-right: 15px;
-}
-.testimonial-image,
-.testimonial-image img {
+  border: solid black 0.2em;
+  background-position: center;
   display: block;
   width: 64px;
   height: 64px;
   border-radius: 50%;
 }
+
 .testimonial-content {
   position: relative;
   overflow: hidden;

@@ -42,7 +42,7 @@ export const Menu = (props) => {
               </a>
             </li>
             <li>
-              <a href='#features' className='page-scroll'>
+              <a href='#liensUtiles' className='page-scroll'>
                 Liens utiles
               </a>
             </li>
