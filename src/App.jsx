@@ -29,7 +29,7 @@ const App = () => {
       <Menu />
       <Header data={landingPageData.Header} />
       <APropos data={landingPageData.APropos} />
-      <Actualites data={landingPageData.actualites} />
+      <Actualites data={landingPageData.Actualites} />
       <Gallery data={landingPageData.Gallery}/>
       <LiensUtiles data={landingPageData.LiensUtiles} />
       <Equipe data={landingPageData.Equipe} />

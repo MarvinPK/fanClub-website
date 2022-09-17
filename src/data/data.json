@@ -23,41 +23,53 @@
       "title": "PSG - Bordeaux 19/09/2021",
       "type":"img",
       "largeImage": "img/portfolio/psg-bordeaux-2021.jpg",
-      "smallImage": "img/portfolio/psg-bordeaux-2021.jpg"
+      "smallImage": "img/portfolio/psg-bordeaux-2021.jpg",
+      "taille":1
     },
     {
       "title": "Parcage Bordeaux - PSG 06/11/2021",
       "type":"img",
       "largeImage": "img/portfolio/bordeaux-psg-2021.jpg",
-      "smallImage": "img/portfolio/bordeaux-psg-2021.jpg"
+      "smallImage": "img/portfolio/bordeaux-psg-2021.jpg",
+      "taille":1
     },
     {
       "title": "Parcage Bordeaux - PSG 06/11/2021",
       "largeImage": "img/portfolio/bordeaux-psg-2021-2.jpg",
-      "smallImage": "img/portfolio/bordeaux-psg-2021-2.jpg"
+      "smallImage": "img/portfolio/bordeaux-psg-2021-2.jpg",
+      "taille":1
+    },
+    {
+      "title": "Assemblée générale 2022",
+      "largeImage": "img/portfolio/ag-2022.jpg",
+      "smallImage": "img/portfolio/ag-2022.jpg",
+      "taille":1
     },
     {
       "title": "PSG - Monaco 28/08/2022",
       "largeImage": "img/portfolio/psg-monaco-2022.png",
-      "smallImage": "img/portfolio/psg-monaco-2022.png"
+      "smallImage": "img/portfolio/psg-monaco-2022.png",
+      "taille":1
     },
     {
       "title": "Rassemblement Club House Toulouse - PSG 31/08/2022",
       "largeImage": "img/portfolio/rassemblement-toulouse-psg-2022.png",
-      "smallImage": "img/portfolio/rassemblement-toulouse-psg-2022.png"
+      "smallImage": "img/portfolio/rassemblement-toulouse-psg-2022.png",
+      "taille":1
     },
     {
       "title": "Parcage Nantes - PSG 2022",
-      "largeImage": "img/portfolio/nantes-psg-1-2022.jpg",
-      "smallImage": "img/portfolio/nantes-psg-1-2022.jpg"
-    } ,
-    {
-      "title": "Parcage Nantes - PSG 2022",
       "largeImage": "img/portfolio/nantes-psg-2022.jpg",
-      "smallImage": "img/portfolio/nantes-psg-2022.jpg"
+      "smallImage": "img/portfolio/nantes-psg-2022.jpg",
+      "taille":2
     }       
   ],
   "Actualites": [
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Partenariat Club House Poitiers",
+      "text": "Mise en place d'un partenariat avec le bar Club House Poitiers, pour regarder les matchs. (Tarifs préférentiels)"
+    },
     {
       "icon": "fa fa-cart-arrow-down",
       "name": "Assemblée générale",
@@ -68,11 +80,6 @@
       "name": "Article le 7 info",
       "text": "Article réalisé par Romain Mudrak sur l'un des déplacement au parc des princes de notre fan club.",
       "link":"https://www.le7.info/article/17780-serie-supporters-ici-cest-aussi-le-psg"
-    },
-    {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     }
   ],
   "Avis": [
@@ -82,9 +89,9 @@
       "name": "Un adhérent"
     },
     {
-      "img": "img/avis/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/avis/a.jpg",
+      "text": "Super fan club avec de l'envie de pousser le club dans les stades en en dehors.",
+      "name": "Un adhérent"
     },
     {
       "img": "img/avis/03.jpg",

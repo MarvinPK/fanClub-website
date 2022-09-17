@@ -204,8 +204,8 @@ a:focus,
 }
 /* Header Section */
 #header{
-  height: 800px;
-  margin-top: 2%;
+  height: 760px;
+  margin-top: 5%;
 }
 .intro {
   display: table;
