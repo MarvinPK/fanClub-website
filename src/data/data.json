@@ -3,7 +3,7 @@
     "title": "PSG Fan Club Poitiers",
     "paragraph": "\" Paris SG ! Tous ensemble on chantera, cet amour qu'on a pour toi, qui ne cessera jamais ! Après tant d'années, de galères et de combats ! Oh pour toi Paris SG, on va se casser la voix ! \""
   },
-  "About": {
+  "APropos": {
     "paragraph": "Le \"PSG Fan Club Poitiers\" a été créé par notre président Antonin en 2020. Il a pour but de rassembler les amoureux du PSG autour de leur passion. Au cours des saisons, de nombreux déplacements, aussi bien au Parc des Princes qu'en parcage, ainsi que des rassemblements, sont organisés afin de donner de la voix pour notre équipe.   On vous demandera seulement 20€ pour adhérer à l'association.",
     "Why": [
       "Une passion commune",
@@ -47,7 +47,7 @@
       "smallImage": "img/portfolio/rassemblement-toulouse-psg-2022.png"
     }    
   ],
-  "News": [
+  "Actualites": [
     {
       "icon": "fa fa-cart-arrow-down",
       "name": "Assemblée générale",
@@ -65,56 +65,56 @@
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     }
   ],
-  "Testimonials": [
+  "Avis": [
     {
-      "img": "img/testimonials/01.jpg",
+      "img": "img/avis/01.jpg",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
       "name": "John Doe"
     },
     {
-      "img": "img/testimonials/02.jpg",
+      "img": "img/avis/02.jpg",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
       "name": "Johnathan Doe"
     },
     {
-      "img": "img/testimonials/03.jpg",
+      "img": "img/avis/03.jpg",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
       "name": "John Doe"
     },
     {
-      "img": "img/testimonials/04.jpg",
+      "img": "img/avis/04.jpg",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
       "name": "Johnathan Doe"
     },
     {
-      "img": "img/testimonials/05.jpg",
+      "img": "img/avis/05.jpg",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
       "name": "John Doe"
     },
     {
-      "img": "img/testimonials/06.jpg",
+      "img": "img/avis/06.jpg",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
       "name": "Johnathan Doe"
     }
   ],
-  "Team": [
+  "Equipe": [
     {
-      "img": "img/team/01.jpg",
+      "img": "img/equipe/01.jpg",
       "name": "John Doe",
       "job": "Director"
     },
     {
-      "img": "img/team/02.jpg",
+      "img": "img/equipe/02.jpg",
       "name": "Mike Doe",
       "job": "Senior Designer"
     },
     {
-      "img": "img/team/03.jpg",
+      "img": "img/equipe/03.jpg",
       "name": "Jane Doe",
       "job": "Senior Designer"
     },
     {
-      "img": "img/team/04.jpg",
+      "img": "img/equipe/04.jpg",
       "name": "Karen Doe",
       "job": "Project Manager"
     }

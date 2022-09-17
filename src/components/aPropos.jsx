@@ -1,6 +1,6 @@
-export const About = (props) => {
+export const APropos = (props) => {
   return (
-    <div id="about">
+    <div id="aPropos">
       <div className="container">
         <div className="row">
           <div className="col-xs-12 col-md-6">
@@ -8,7 +8,7 @@ export const About = (props) => {
             <img src="img/fanClub.jpg" className="img-responsive" alt="" />{" "}
           </div>
           <div className="col-xs-12 col-md-6">
-            <div className="about-text">
+            <div className="aPropos-text">
               <h2>Le Fan club</h2>
               <p>{props.data ? props.data.paragraph : "loading..."}</p>
               <h3>Rejoins nous pour ...</h3>

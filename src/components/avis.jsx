@@ -1,6 +1,6 @@
-export const Testimonials = (props) => {
+export const Avis = (props) => {
   return (
-    <div id='testimonials'>
+    <div id='avis'>
       <div className='container'>
         <div className='section-title text-center'>
           <h2>Qu'en pensent nos adhérents ?</h2>

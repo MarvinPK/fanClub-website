@@ -70,7 +70,7 @@ hr {
   margin-bottom: 20px;
   border: 0;
 }
-/* Navigation */
+/* Menu */
 #menu {
   padding: 15px;
   transition: all 0.8s;
@@ -245,7 +245,7 @@ header .intro-text {
   text-align: center;
 }
 .logo-header{
-  width: 60px;
+  width: 70px;
   float: left;
 }
 /* Features Section */
@@ -278,20 +278,20 @@ header .intro-text {
 }
 
 
-/* About Section */
-#about {
+/* APropos Section */
+#aPropos {
   padding: 100px 0;
 }
-#about h3 {
+#aPropos h3 {
   font-size: 22px;
   margin: 0 0 20px;
 }
-#about h2 {
+#aPropos h2 {
   position: relative;
   margin-bottom: 15px;
   padding-bottom: 15px;
 }
-#about h2::after {
+#aPropos h2::after {
   position: absolute;
   content: "";
   background: linear-gradient(to right, #747171 0%, #ffffff 100%);
@@ -300,13 +300,13 @@ header .intro-text {
   bottom: 0;
   left: 0;
 }
-#about .about-text li {
+#aPropos .aPropos-text li {
   margin-bottom: 6px;
   margin-left: 6px;
   list-style: none;
   padding: 0;
 }
-#about .about-text li:before {
+#aPropos .aPropos-text li:before {
   content: "\f00c";
   font-family: "FontAwesome";
   color: #000000;
@@ -314,30 +314,30 @@ header .intro-text {
   font-weight: 300;
   padding-right: 8px;
 }
-#about img {
+#aPropos img {
   width: 520px;
   margin-top: 10px;
   background: #fff;
   border-right: 0;
   box-shadow: 0 0 50px rgba(0, 0, 0, 0.06);
 }
-#about p {
+#aPropos p {
   line-height: 24px;
   margin: 30px 0;
 }
-/* News Section */
-#news {
+/* Actualites Section */
+#actualites {
   padding: 100px 0;
   background: url("../img/new-bg.jpg");
   color: #fff;
 }
-#news .new-desc {
+#actualites .new-desc {
   margin: 10px 10px 20px;
 }
-#news h2 {
+#actualites h2 {
   color: #fff;
 }
-#news .section-title h2::after {
+#actualites .section-title h2::after {
   position: absolute;
   content: "";
   background: rgba(255, 255, 255, 0.3);
@@ -347,7 +347,7 @@ header .intro-text {
   margin-left: -30px;
   left: 50%;
 }
-#news i.fa {
+#actualites i.fa {
   font-size: 42px;
   width: 120px;
   height: 120px;
@@ -357,15 +357,15 @@ header .intro-text {
   color: #fff;
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
 }
-#news h3 {
+#actualites h3 {
   font-weight: 500;
   padding: 5px 0;
   color: #fff;
 }
-#news p {
+#actualites p {
   color: rgba(255, 255, 255, 0.75);
 }
-#news .new-desc {
+#actualites .new-desc {
   margin-bottom: 40px;
 }
 /* Portfolio Section */
@@ -416,12 +416,12 @@ header .intro-text {
 .hover-bg:hover .hover-text {
   opacity: 1;
 }
-/* Testimonials Section */
-#testimonials {
+/* Avis Section */
+#avis {
   padding: 100px 0;
   background: #f6f6f6;
 }
-#testimonials i {
+#avis i {
   color: #e6e6e6;
   font-size: 32px;
   margin-bottom: 20px;
@@ -456,21 +456,21 @@ header .intro-text {
   font-weight: 600;
   color: #666;
 }
-/* Team Section */
-#team {
+/* Equipe Section */
+#equipe {
   padding: 100px 0;
 }
-#team h4 {
+#tequipeeam h4 {
   margin: 5px 0;
 }
-#team .team-img {
+#equipe .equipe-img {
   width: 240px;
 }
-#team .thumbnail {
+#equipe .thumbnail {
   background: transparent;
   border: 0;
 }
-#team .thumbnail .caption {
+#equipe .thumbnail .caption {
   padding: 10px 0 0;
   color: #888;
 }
@@ -619,7 +619,7 @@ label {
 }
 
 @media (max-width: 768px) {
-  #about img {
+  #aPropos img {
     margin: 50px 0;
   }
 }

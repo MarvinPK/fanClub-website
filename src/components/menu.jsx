@@ -1,4 +1,4 @@
-export const Navigation = (props) => {
+export const Menu = (props) => {
   return (
     <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
       <div className='container'>
@@ -11,13 +11,13 @@ export const Navigation = (props) => {
             data-target='#bs-example-navbar-collapse-1'
           >
             {' '}
-            <span className='sr-only'>Toggle navigation</span>{' '}
+            <span className='sr-only'>Toggle Menu</span>{' '}
             <span className='icon-bar'></span>{' '}
             <span className='icon-bar'></span>{' '}
             <span className='icon-bar'></span>{' '}
           </button>
           <a className='navbar-brand page-scroll' href='#page-top'>
-            PSG Fan Club <br/> Poitiers
+            Paris SG <br/> Poitiers
           </a>{' '}
         </div>
 
@@ -27,13 +27,13 @@ export const Navigation = (props) => {
         >
           <ul className='nav navbar-nav navbar-right'>
             <li>
-              <a href='#about' className='page-scroll'>
+              <a href='#aPropos' className='page-scroll'>
                 Le Fan Club
               </a>
             </li>
             <li>
-              <a href='#news' className='page-scroll'>
-              News
+              <a href='#actualites' className='page-scroll'>
+              Actualitées
               </a>
             </li>
             <li>
@@ -47,12 +47,12 @@ export const Navigation = (props) => {
               </a>
             </li>
             <li>
-              <a href='#team' className='page-scroll'>
+              <a href='#equipe' className='page-scroll'>
                 L'équipe
               </a>
             </li>
            <li>
-              <a href='#testimonials' className='page-scroll'>
+              <a href='#avis' className='page-scroll'>
                 Nos adhérants
               </a>
             </li>

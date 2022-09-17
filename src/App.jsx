@@ -1,12 +1,12 @@
 import { useState, useEffect } from "react";
-import { Navigation } from "./components/navigation";
+import { Menu } from "./components/menu";
 import { Header } from "./components/header";
 import { Features } from "./components/features";
-import { About } from "./components/about";
-import { News } from "./components/news";
+import { APropos } from "./components/aPropos";
+import { Actualites } from "./components/actualites";
 import { Gallery } from "./components/gallery";
-import { Testimonials } from "./components/testimonials";
-import { Team } from "./components/Team";
+import { Avis } from "./components/avis";
+import { Equipe } from "./components/equipe";
 import { Contact } from "./components/contact";
 import { Footer } from "./components/footer";
 import JsonData from "./data/data.json";
@@ -26,14 +26,14 @@ const App = () => {
 
   return (
     <div>
-      <Navigation />
+      <Menu />
       <Header data={landingPageData.Header} />
-      <About data={landingPageData.About} />
-      <News data={landingPageData.News} />
+      <APropos data={landingPageData.APropos} />
+      <Actualites data={landingPageData.actualites} />
       <Gallery data={landingPageData.Gallery}/>
       <Features data={landingPageData.Features} />
-      <Team data={landingPageData.Team} />
-      <Testimonials data={landingPageData.Testimonials} />
+      <Equipe data={landingPageData.Equipe} />
+      <Avis data={landingPageData.Avis} />
       <Contact data={landingPageData.Contact} />
       <Footer/>
     </div>

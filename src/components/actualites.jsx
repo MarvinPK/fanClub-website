@@ -1,6 +1,6 @@
-export const News = (props) => {
+export const Actualites = (props) => {
   return (
-    <div id='news' className='text-center'>
+    <div id='actualites' className='text-center'>
       <div className='container'>
         <div className='section-title'>
           <h2>Les actualités</h2>
