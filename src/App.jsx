@@ -7,7 +7,6 @@ import { Actualites } from "./components/actualites";
 import { Gallery } from "./components/gallery";
 import { Avis } from "./components/avis";
 import { Equipe } from "./components/equipe";
-import { Contact } from "./components/contact";
 import { Footer } from "./components/footer";
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
@@ -34,7 +33,6 @@ const App = () => {
       <LiensUtiles data={dataJsonParam.LiensUtiles} />
       <Equipe data={dataJsonParam.Equipe} />
       <Avis data={dataJsonParam.Avis} />
-      <Contact data={dataJsonParam.Contact} />
       <Footer/>
     </div>
   );

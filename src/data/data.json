@@ -132,12 +132,6 @@
       "job": "Bras droit"
     }
   ],
-  "Contact": {
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "https://www.facebook.com/Fan-Club-PSG-Poitiers-106681044231244",
-    "twitter": "https://twitter.com/FanClubPoitiers"
-  },
   "LiensUtiles": [
     {
       "icon": "img/icons/icon-twitter.svg",
@@ -157,10 +151,10 @@
       "url": "https://www.facebook.com/Fan-Club-PSG-Poitiers-106681044231244"
     },
     {
-      "icon": "img/icons/icon-ligue-1.svg",
-      "title": "Calendrier & résultats",
-      "text": "Futurs rencontres et résultats passés de notre club.",
-      "url": "https://www.psg.fr/equipes/equipe-premiere/calendrier-et-resultats"
+      "icon": "img/icons/icon-gmail.svg",
+      "title": "Nous écrire",
+      "text": "Tu peux nous écrire par mail en cliquant ici.",
+      "url": "mailto:fanclubpsgpoitiers@gmail.com"
     }
   ]
 }
