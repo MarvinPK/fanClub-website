@@ -3,7 +3,7 @@ export const Menu = (props) => {
     <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
       <div className='container'>
         <div className='navbar-header'>
-          <img src="img/logo-sansbg.png" class="logo-header" alt=""/> 
+          <img src="img/general/logo-sansbg.png" class="logo-header" alt=""/> 
           <button
             type='button'
             className='navbar-toggle collapsed'

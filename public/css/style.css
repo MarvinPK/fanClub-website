@@ -211,7 +211,7 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url(../img/ultra.jpg) center center no-repeat;
+  background: url(../img/general/ultra.jpg) center center no-repeat;
   height: 100%;
   background-color: #e5e5e5;
   -webkit-background-size: cover;

@@ -19,22 +19,22 @@ export const scroll = new SmoothScroll('a[href*="#"]', {
 });
 
 const App = () => {
-  const [landingPageData, setLandingPageData] = useState({});
+  const [dataJsonParam, setDataJsonParam] = useState({});
   useEffect(() => {
-    setLandingPageData(JsonData);
+    setDataJsonParam(JsonData);
   }, []);
 
   return (
     <div>
       <Menu />
-      <Header data={landingPageData.Header} />
-      <APropos data={landingPageData.APropos} />
-      <Actualites data={landingPageData.Actualites} />
-      <Gallery data={landingPageData.Gallery}/>
-      <LiensUtiles data={landingPageData.LiensUtiles} />
-      <Equipe data={landingPageData.Equipe} />
-      <Avis data={landingPageData.Avis} />
-      <Contact data={landingPageData.Contact} />
+      <Header data={dataJsonParam.Header} />
+      <APropos data={dataJsonParam.APropos} />
+      <Actualites data={dataJsonParam.Actualites} />
+      <Gallery data={dataJsonParam.Gallery}/>
+      <LiensUtiles data={dataJsonParam.LiensUtiles} />
+      <Equipe data={dataJsonParam.Equipe} />
+      <Avis data={dataJsonParam.Avis} />
+      <Contact data={dataJsonParam.Contact} />
       <Footer/>
     </div>
   );
