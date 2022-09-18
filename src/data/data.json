@@ -66,17 +66,18 @@
   ],
   "Actualites": [
     {
-      "icon": "fa fa-cloud-download",
+      "img": "img/actualite/clubHouse.jpg",
       "name": "Partenariat Club House Poitiers",
-      "text": "Mise en place d'un partenariat avec le bar Club House Poitiers, pour regarder les matchs. (Tarifs préférentiels)"
+      "text": "Mise en place d'un partenariat avec le bar Club House Poitiers, pour regarder les matchs. (Tarifs préférentiels)",
+      "link":"https://www.clubhousepoitiers.com/"
     },
     {
-      "icon": "fa fa-cart-arrow-down",
+      "img": "img/actualite/logo-sansbg.png",
       "name": "Assemblée générale",
       "text": "Premiere assemblée générale du Fan club le 27 Mai 2022."
     },
     {
-      "img": "img/septPoitiers.jpg",
+      "img": "img/actualite/septPoitiers.jpg",
       "name": "Article le 7 info",
       "text": "Article réalisé par Romain Mudrak sur l'un des déplacement au parc des princes de notre fan club.",
       "link":"https://www.le7.info/article/17780-serie-supporters-ici-cest-aussi-le-psg"
@@ -95,8 +96,8 @@
     },
     {
       "img": "img/avis/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "Fan club dynamique, familiale et très sympathique. Tous les membres sont super cool. Lors des déplacements l'ambiance est festive et rempli de motivation.",
+      "name": "Un adhérent"
     },
     {
       "img": "img/avis/04.jpg",
@@ -117,23 +118,18 @@
   "Equipe": [
     {
       "img": "img/equipe/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Jeremy",
+      "job": "Bras gauche"
     },
     {
       "img": "img/equipe/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Anto",
+      "job": "Président"
     },
     {
       "img": "img/equipe/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/equipe/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Marvin",
+      "job": "Bras droit"
     }
   ],
   "Contact": {

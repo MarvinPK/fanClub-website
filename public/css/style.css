@@ -333,15 +333,12 @@ header .intro-text {
 /* Actualites Section */
 #actualites {
   padding: 100px 0;
-  background: url("../img/new-bg.jpg");
-  color: #fff;
+  background: #f6f6f6;
 }
 #actualites .new-desc {
   margin: 10px 10px 20px;
 }
-#actualites h2 {
-  color: #fff;
-}
+
 #actualites .section-title h2::after {
   position: absolute;
   content: "";
@@ -359,17 +356,17 @@ header .intro-text {
   padding: 40px 0;
   background: linear-gradient(to right, #747171 0%, #ffffff 100%);
   border-radius: 50%;
-  color: #fff;
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
 }
 #actualites h3 {
   font-weight: 500;
   padding: 5px 0;
-  color: #fff;
 }
-#actualites p {
-  color: rgba(255, 255, 255, 0.75);
+
+#actualites p{
+  color: #000000;
 }
+
 #actualites .new-desc {
   margin-bottom: 40px;
 }

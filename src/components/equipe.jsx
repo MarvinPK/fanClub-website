@@ -5,14 +5,13 @@ export const Equipe = (props) => {
         <div className='col-md-8 col-md-offset-2 section-title'>
           <h2>L'équipe</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Petite présentation des 3 membres principaux qui gérent le fan club.
           </p>
         </div>
         <div id='row'>
           {props.data
             ? props.data.map((d, i) => (
-                <div key={`${d.name}-${i}`} className='col-md-3 col-sm-6 equipe'>
+                <div key={`${d.name}-${i}`} className='col-md-4 col-sm-12 equipe'>
                   <div className='thumbnail'>
                     {' '}
                     <img src={d.img} alt='...' className='equipe-img' />

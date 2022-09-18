@@ -14,7 +14,7 @@ export const Actualites = (props) => {
                 <div key={`${d.name}-${i}`} className='col-md-4'>
                   {' '}
                   {d.link ?<a href={d.link} target="_blank">
-                    {d.img && <img style={{"width":"100px"}} src={d.img}></img>}
+                    {d.img && <img style={{"width":"100px", "height":"100px"}} src={d.img}></img>}
                     <i className={d.icon}></i>
                     <div className='new-desc'>
                       <h3>{d.name}</h3>
