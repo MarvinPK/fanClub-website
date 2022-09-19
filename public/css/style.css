@@ -420,7 +420,8 @@ header .intro-text {
 }
 /* Avis Section */
 #avis {
-  padding: 100px 0;
+  padding-top: 150px;
+  padding-bottom: 120px;
   background: #f6f6f6;
 }
 #avis i {
