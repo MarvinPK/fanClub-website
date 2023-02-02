@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/fanClub-website/static/css/main.60220382.chunk.css",
+    "main.js": "/fanClub-website/static/js/main.4cd15ce2.chunk.js",
+    "main.js.map": "/fanClub-website/static/js/main.4cd15ce2.chunk.js.map",
+    "runtime-main.js": "/fanClub-website/static/js/runtime-main.b80ab418.js",
+    "runtime-main.js.map": "/fanClub-website/static/js/runtime-main.b80ab418.js.map",
+    "static/js/2.e721bd91.chunk.js": "/fanClub-website/static/js/2.e721bd91.chunk.js",
+    "static/js/2.e721bd91.chunk.js.map": "/fanClub-website/static/js/2.e721bd91.chunk.js.map",
+    "index.html": "/fanClub-website/index.html",
+    "static/css/main.60220382.chunk.css.map": "/fanClub-website/static/css/main.60220382.chunk.css.map",
+    "static/js/2.e721bd91.chunk.js.LICENSE.txt": "/fanClub-website/static/js/2.e721bd91.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b80ab418.js",
+    "static/js/2.e721bd91.chunk.js",
+    "static/css/main.60220382.chunk.css",
+    "static/js/main.4cd15ce2.chunk.js"
+  ]
+}
